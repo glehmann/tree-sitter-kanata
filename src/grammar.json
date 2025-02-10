@@ -1,5 +1,6 @@
 {
-  "name": "scheme",
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/grammar.schema.json",
+  "name": "kanata",
   "rules": {
     "program": {
       "type": "REPEAT",
@@ -53,7 +54,7 @@
       "members": [
         {
           "type": "PATTERN",
-          "value": ";.*"
+          "value": ";;.*"
         },
         {
           "type": "SEQ",

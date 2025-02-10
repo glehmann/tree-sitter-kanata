@@ -1,5 +1,5 @@
 {
-  "name": "tree-sitter-scheme",
+  "name": "tree-sitter-kanata",
   "version": "0.23.0",
   "description": "Tree-sitter grammar for Scheme",
   "main": "bindings/node",
@@ -28,15 +28,6 @@
     "tree-sitter-cli": "0.23.0",
     "prebuildify": "^6.0.1"
   },
-  "tree-sitter": [
-    {
-      "scope": "source.scheme",
-      "file-types": [
-        "scm",
-        "ss"
-      ]
-    }
-  ],
   "files": [
     "grammar.js",
     "binding.gyp",

@@ -60,7 +60,7 @@ abc"
 comment
 ===
 
-; abc
+;; abc
 
 ---
 (program

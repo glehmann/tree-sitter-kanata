@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you to contribute `tree-sitter-scheme`.
+Thank you to contribute `tree-sitter-kanata`.
 
 ## Workflow
 

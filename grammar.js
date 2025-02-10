@@ -131,7 +131,7 @@ const hidden_node = {
 };
 
 module.exports = grammar({
-  name: "scheme",
+  name: "kanata",
 
   extras: _ => [],
 
@@ -153,7 +153,7 @@ module.exports = grammar({
 
     comment: $ =>
       choice(
-        /;.*/,
+        /;;.*/,
         seq("#;", repeat($._intertoken), $._datum)),
 
     directive: $ =>

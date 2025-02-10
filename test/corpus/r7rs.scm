@@ -81,7 +81,7 @@ directive
 comment
 ===
 
-; cmt
+;; cmt
 #| #| 
 |# |#
 

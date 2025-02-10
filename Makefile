@@ -4,7 +4,7 @@ endif
 
 VERSION := 0.23.0
 
-LANGUAGE_NAME := tree-sitter-scheme
+LANGUAGE_NAME := tree-sitter-kanata
 
 # repository
 SRC_DIR := src

@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-scheme
+module github.com/tree-sitter/tree-sitter-kanata
 
 go 1.23
 

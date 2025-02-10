@@ -101,7 +101,7 @@ directive
 ===
 comment
 ===
-; abc
+;; abc
 #; (list)
 #| comment |#
 #|
